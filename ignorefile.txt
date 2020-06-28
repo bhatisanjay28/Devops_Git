@@ -1,0 +1,2 @@
+testing of ignore file
+generally we ignore logs file to sync 
